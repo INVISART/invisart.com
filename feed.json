@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "INVISART",
+    "description": "",
+    "home_page_url": "https://invisart.github.io/invisart.com",
+    "feed_url": "https://invisart.github.io/invisart.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "INVISART"
+    },
+    "items": [
+        {
+            "id": "https://invisart.github.io/invisart.com/welcome-world.html",
+            "url": "https://invisart.github.io/invisart.com/welcome-world.html",
+            "title": "WELCOME WORLD",
+            "author": {
+                "name": "INVISART"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-17T17:07:13+02:00",
+            "date_modified": "2019-08-17T17:07:13+02:00"
+        }
+    ]
+}
